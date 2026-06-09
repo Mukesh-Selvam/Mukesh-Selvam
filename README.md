@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Mukesh Selvam
 
-<!--
-**Mukesh-Selvam/Mukesh-Selvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer  
+🎓 B.E CSE Student  
+💻 1000+ Problems Solved on CodeChef  
+🌱 Learning Full Stack Development
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C | C++ | Java | Python | JavaScript  
+React | Node.js | Express.js | MongoDB
+
+## 🚀 Projects
+
+- Food Waste Management System
+- RentEase Rental Platform
+- Portfolio Website
+
+## 📫 Connect With Me
+
+LinkedIn: Your LinkedIn URL
+Email: your email
