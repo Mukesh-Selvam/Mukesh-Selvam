@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukesh%20Selvam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=1000%2B+Problems+Solved+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Apps+%F0%9F%8C%90;Always+Learning+Something+New+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=1000%2B+Problems+Solved+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Apps+%F0%9F%8C%90;Always+Learning+Something+New+%F0%9F%8C%B1)](https://github.com/Mukesh-Selvam)
 
 <br/>
 
