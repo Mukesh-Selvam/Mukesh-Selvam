@@ -20,3 +20,7 @@ React | Node.js | Express.js | MongoDB
 
 LinkedIn: Your LinkedIn URL
 Email: your email
+
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,mongodb,git,github,vscode)
