@@ -20,11 +20,9 @@
 
 </div>
 
----
 
 ## 🧑‍💻 About Me
 
-```typescript
 const mukesh: Developer = {
   name:          "Mukesh Selvam",
   role:          "Full Stack Developer",
@@ -182,6 +180,5 @@ Personal portfolio showcasing projects, skills, and achievements — built for s
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
-```
 
 > **Note:** In the About Me section, make sure the closing triple backticks (` ``` `) have no spaces — I added spaces there just so they'd display here without breaking the formatting. Paste as-is from the downloaded file to be safe.
