@@ -33,7 +33,6 @@ const mukesh: Developer = {
   currentFocus:  ["System Design", "AI Integration", "Cloud Technologies"],
   motto:         "Code. Learn. Build. Repeat."
 };
-` ` `
 
 - 🎓 **CS Engineering student** with a strong foundation in DSA
 - 💼 **Full Stack Intern** at Unified Mentor — built real-world production apps
