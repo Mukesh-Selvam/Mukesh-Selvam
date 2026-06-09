@@ -1,7 +1,72 @@
-<p align="center">
-  <img src="./banner.png" alt="Mukesh Selvam Banner" width="100%">
-</p>
 <div align="center">
+
+# 🚀 MUKESH SELVAM
+
+### Full Stack Developer • MERN Stack Developer • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=1000%2B+Problems+Solved;Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+Source+Learner;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Mukesh-Selvam&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/1000%2B-Problems%20Solved-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Intern-Unified%20Mentor-blue?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/mukesh7777/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://mukesh07-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:kit28.24cs095@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+```javascript
+const mukesh = {
+  role: "Full Stack Developer",
+  education: "B.E Computer Science Engineering",
+  internship: "Unified Mentor Pvt Ltd",
+  coding: "1000+ Problems Solved",
+  specialization: "MERN Stack",
+  currentFocus: [
+    "System Design",
+    "Backend Development",
+    "AI Integration",
+    "Cloud Technologies"
+  ]
+};
+```
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">🎓<br><b>B.E CSE</b></td>
+<td align="center">💼<br><b>Full Stack Intern</b></td>
+<td align="center">🏆<br><b>1000+ Problems Solved</b></td>
+<td align="center">🚀<br><b>MERN Developer</b></td>
+<td align="center">🌱<br><b>Continuous Learner</b></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+> 💡 **"Code. Learn. Build. Repeat."**
+
+---
 
 # 👋 Hi, I'm Mukesh Selvam
 
