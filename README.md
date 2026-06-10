@@ -76,6 +76,28 @@ const mukesh: Developer = {
 
 ---
 
+---
+
+## 📊 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/mukeshselvam/">
+  <img src="https://leetcard.jacoblin.cool/mukeshselvam?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.codechef.com/users/kit28csa095">
+  <img src="https://cp-logo.vercel.app/codechef/kit28csa095" alt="CodeChef Rating"/>
+</a>
+
+<br/><br/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=mukeshselvam&theme=dark" alt="LeetCode Badges"/>
+
+</div>
+
 ## 🚀 Featured Projects
 
 <table>
