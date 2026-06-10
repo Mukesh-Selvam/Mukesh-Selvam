@@ -76,8 +76,6 @@ const mukesh: Developer = {
 
 ---
 
----
-
 ## 📊 Coding Profiles
 
 <div align="center">
@@ -97,6 +95,8 @@ const mukesh: Developer = {
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mukeshselvam&theme=dark" alt="LeetCode Badges"/>
 
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
