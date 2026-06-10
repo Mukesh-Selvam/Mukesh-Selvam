@@ -81,18 +81,14 @@ const mukesh: Developer = {
 <div align="center">
 
 <a href="https://leetcode.com/u/mukeshselvam/">
-  <img src="https://leetcard.jacoblin.cool/mukeshselvam?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/mukeshselvam?theme=dark&font=Fira%20Code&ext=contest&show=solved,ranking" alt="LeetCode Stats"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.codechef.com/users/kit28csa095">
-  <img src="https://cp-logo.vercel.app/codechef/kit28csa095" alt="CodeChef Rating"/>
+  <img src="https://codechef-readme-stats.vercel.app/api?username=kit28csa095&theme=dark" alt="CodeChef Stats"/>
 </a>
-
-<br/><br/>
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=mukeshselvam&theme=dark" alt="LeetCode Badges"/>
 
 </div>
 
