@@ -16,7 +16,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mukesh-Selvam&label=Profile+Views&color=0e75b6&style=flat)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1000%2B-brightgreen?style=flat)
-![Intern](https://img.shields.io/badge/Intern-Unified%20Mentor-blue?style=flat)
+![CGPA](https://img.shields.io/badge/CGPA-8.3%2F10-blue?style=flat)
+![Year](https://img.shields.io/badge/Year-3rd-orange?style=flat)
 ![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=flat)
 
 </div>
@@ -29,7 +30,8 @@
 const mukesh: Developer = {
   name:          "Mukesh Selvam",
   role:          "Full Stack Developer",
-  education:     "B.E. Computer Science Engineering",
+  education:     "B.E. CSE @ KIT — Kalaignarkarunanidhi Institute of Technology",
+  year:          "3rd Year | CGPA: 8.3 / 10",
   experience:    "Full Stack Intern @ Unified Mentor Pvt Ltd",
   solved:        "1000+ Coding Problems",
   stack:         ["MongoDB", "Express", "React", "Node.js"],
@@ -38,12 +40,23 @@ const mukesh: Developer = {
 };
 ```
 
-- 🎓 **CS Engineering student** with a strong foundation in DSA
+- 🎓 **3rd Year CSE student** at KIT, Coimbatore — CGPA: **8.3 / 10**
 - 💼 **Full Stack Intern** at Unified Mentor — built real-world production apps
-- 🧩 **1000+ problems solved** across LeetCode & CodeChef
+- 🧩 **1000+ problems solved** across LeetCode, CodeChef & Codeforces
 - 🌐 Passionate about building fast, clean, scalable web applications
 - 🤖 Currently exploring AI-powered app development and system design
-- 📫 Reach me at **kit28.24cs095@gmail.com**
+- 🏆 Qualified for **Round 2 — VIT Bangalore Hackathon**
+- 📫 Reach me at **kit28.24cs095@gmail.com** | 📞 **7397182789**
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Duration | CGPA |
+|--------|-------------|----------|------|
+| B.E. Computer Science & Engineering | KIT — Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024 – 2028 | **8.3 / 10** |
+
+**Coursework:** Computer Architecture · Computer Networks · Operating Systems · Database Management Systems
 
 ---
 
@@ -56,6 +69,7 @@ const mukesh: Developer = {
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -82,10 +96,15 @@ const mukesh: Developer = {
 
 <div align="center">
 
-| Platform | Rating | Problems Solved | Global Rank | Profile |
-|----------|--------|-----------------|-------------|---------|
-| 🟡 **LeetCode** | 1563 · Highest 1617 | **761** | **#70850** | [Visit](https://leetcode.com/u/mukeshselvam/) |
-| 🟤 **CodeChef** | ⭐⭐ 2 Star | **1000+** | Active Contestant | [Visit](https://www.codechef.com/users/kit28csa095) |
+| Platform | Max Rating | Problems Solved | Rank / Level |
+|----------|-----------|-----------------|--------------|
+| 🟡 **LeetCode** | 1452 | **500+** | Global Rank #70850 |
+| 🟤 **CodeChef** | 1446 | **1600+** | ⭐⭐ 2 Star · Div 3 |
+| 🔵 **Codeforces** | 895 | Active | Newbie → Pupil |
+
+**CP Focus:** Arrays · Strings · DP · Trees · Graphs · Sorting · Greedy · STL · DSA
+
+**Languages for CP:** C++ · Java
 
 </div>
 
@@ -93,24 +112,17 @@ const mukesh: Developer = {
 
 <div align="center">
 
-### 🟡 LeetCode Stats
+### 🟡 LeetCode Live Stats
 
 <a href="https://leetcode.com/u/mukeshselvam/">
-  <img src="https://leetcard.jacoblin.cool/mukeshselvam?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10" alt="LeetCode Stats Card"/>
+  <img src="https://leetcard.jacoblin.cool/mukeshselvam?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10" alt="LeetCode Stats"/>
 </a>
 
 <br/><br/>
 
-### 🟤 CodeChef Stats
-
-| Metric | Value |
-|--------|-------|
-| ⭐ Rating | 2 Star |
-| 🏆 Division | Division 3 |
-| ✅ Problems Solved | 1000+ |
-| 🔗 Profile | [kit28csa095](https://www.codechef.com/users/kit28csa095) |
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-View%20Full%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28csa095)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mukeshselvam/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1600%2B%20Solved%20%7C%202%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28csa095)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Rating%20895-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 
 </div>
 
@@ -127,39 +139,39 @@ An AI-powered analysis platform for digital twin systems — combining modern we
 
 **Stack:** JavaScript · AI/ML Integration · Web APIs
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam/AI-DIGITAL-TWIN-ANALYSER)
 
 </td>
 <td width="50%">
 
 ### 🚗 Car Rental Management System
-End-to-end vehicle booking platform with user authentication, booking workflows, and an admin dashboard.
+Full-stack MERN app with JWT authentication, role-based access, dynamic booking with date validation, automatic pricing, and real-time search & filtering.
 
-**Stack:** MERN · REST API · JWT Auth
+**Stack:** MERN · JWT Auth · REST API
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam/CAR_RENTAL_APP)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎯 SkillBridge
-A career guidance and skill development platform that maps learning paths for aspiring developers.
+### 🎯 SkillBridge — AI Learning Platform
+React + TypeScript app delivering personalized AI-driven skill insights and learning paths with dashboards for skill tracking and growth analytics.
 
-**Stack:** TypeScript · React · Node.js
+**Stack:** TypeScript · React · AI Integration
 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam)
 
 </td>
 <td width="50%">
 
-### 🌐 Developer Portfolio
-Personal portfolio showcasing projects, skills, and achievements — built for speed and clarity.
+### 🍱 Food Waste Management System
+Web app to reduce food wastage by tracking surplus food from restaurants and households — real-time inventory, automated notifications, and data analytics.
 
-**Stack:** React · TailwindCSS · Netlify
+**Stack:** MERN · Role-Based Auth · Analytics
 
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://mukesh07-portfolio.netlify.app/)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam)
 
 </td>
 </tr>
@@ -175,6 +187,17 @@ Personal portfolio showcasing projects, skills, and achievements — built for s
 - Built and consumed REST APIs using Express.js + MongoDB
 - Improved UI performance and responsiveness with React + TailwindCSS
 - Collaborated on a production-grade codebase with clean code practices
+
+---
+
+## 🏆 Achievements & Certifications
+
+| Type | Details |
+|------|---------|
+| 🥇 **Hackathon** | Qualified for **Round 2 — VIT Bangalore Hackathon** among multiple competing teams |
+| 📜 **Certification** | NPTEL — Operating System Fundamentals |
+| 🧩 **Competitive Programming** | 1000+ problems across LeetCode, CodeChef & Codeforces |
+| 💼 **Internship** | Full Stack Developer Intern — Unified Mentor Pvt Ltd |
 
 ---
 
