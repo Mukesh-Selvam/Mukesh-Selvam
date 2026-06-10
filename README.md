@@ -76,19 +76,21 @@ const mukesh: Developer = {
 
 ---
 
-## 📊 Coding Profiles
+## 💻 Competitive Programming Stats
 
 <div align="center">
 
-<a href="https://leetcode.com/u/mukeshselvam/">
-  <img src="https://leetcard.jacoblin.cool/mukeshselvam?theme=dark&font=Fira%20Code&ext=contest&show=solved,ranking" alt="LeetCode Stats"/>
-</a>
+| Platform | Rating / Rank | Problems Solved | Highlights |
+|----------|--------------|-----------------|------------|
+| 🟡 **LeetCode** | 1563 (Top 29.70%) | **761** | Global Rank #70850 |
+| 🟤 **CodeChef** | 2★ | **1000+** | Active Contestant |
 
-<br/><br/>
+</div>
 
-<a href="https://www.codechef.com/users/kit28csa095">
-  <img src="https://codechef-readme-stats.vercel.app/api?username=kit28csa095&theme=dark" alt="CodeChef Stats"/>
-</a>
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-761%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mukeshselvam/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2★%20Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28csa095)
 
 </div>
 
