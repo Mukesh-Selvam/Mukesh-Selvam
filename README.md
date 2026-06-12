@@ -36,6 +36,7 @@ const mukesh: Developer = {
   solved:        "1000+ Coding Problems",
   stack:         ["MongoDB", "Express", "React", "Node.js"],
   currentFocus:  ["System Design", "AI Integration", "Cloud Technologies"],
+  languages:     ["Tamil", "English"],
   motto:         "Code. Learn. Build. Repeat."
 };
 ```
@@ -46,6 +47,7 @@ const mukesh: Developer = {
 - 🌐 Passionate about building fast, clean, scalable web applications
 - 🤖 Currently exploring AI-powered app development and system design
 - 🏆 Qualified for **Round 2 — VIT Bangalore Hackathon**
+- 🗣️ Languages: **Tamil** · **English**
 - 📫 Reach me at **kit28.24cs095@gmail.com** | 📞 **7397182789**
 
 ---
@@ -90,6 +92,16 @@ const mukesh: Developer = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+### 🧠 DSA Focus Areas
+![Arrays](https://img.shields.io/badge/Arrays-informational?style=flat-square)
+![Strings](https://img.shields.io/badge/Strings-informational?style=flat-square)
+![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-informational?style=flat-square)
+![Trees](https://img.shields.io/badge/Trees-informational?style=flat-square)
+![Graphs](https://img.shields.io/badge/Graphs-informational?style=flat-square)
+![Sorting](https://img.shields.io/badge/Sorting-informational?style=flat-square)
+![Greedy](https://img.shields.io/badge/Greedy-informational?style=flat-square)
+![STL](https://img.shields.io/badge/STL-informational?style=flat-square)
+
 ---
 
 ## 💻 Competitive Programming Stats
@@ -102,9 +114,7 @@ const mukesh: Developer = {
 | 🟤 **CodeChef** | 1446 | **1600+** | ⭐⭐ 2 Star · Div 3 |
 | 🔵 **Codeforces** | 895 | Active | Newbie → Pupil |
 
-**CP Focus:** Arrays · Strings · DP · Trees · Graphs · Sorting · Greedy · STL · DSA
-
-**Languages for CP:** C++ · Java
+**CP Languages:** C++ · Java
 
 </div>
 
@@ -122,7 +132,7 @@ const mukesh: Developer = {
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mukeshselvam/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1600%2B%20Solved%20%7C%202%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28csa095)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Rating%20895-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Rating%20895-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kit28csea095)
 
 </div>
 
@@ -161,7 +171,7 @@ React + TypeScript app delivering personalized AI-driven skill insights and lear
 
 **Stack:** TypeScript · React · AI Integration
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam/SkillBridge)
 
 </td>
 <td width="50%">
@@ -171,7 +181,7 @@ Web app to reduce food wastage by tracking surplus food from restaurants and hou
 
 **Stack:** MERN · Role-Based Auth · Analytics
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam/Food-Waste-Management)
 
 </td>
 </tr>
@@ -213,6 +223,20 @@ Web app to reduce food wastage by tracking surplus food from restaurants and hou
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh-Selvam&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukesh-Selvam/Mukesh-Selvam/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukesh-Selvam/Mukesh-Selvam/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Mukesh-Selvam/Mukesh-Selvam/output/github-snake.svg"/>
+</picture>
 
 </div>
 
