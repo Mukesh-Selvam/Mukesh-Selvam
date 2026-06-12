@@ -147,7 +147,9 @@ const mukesh: Developer = {
 ### 🤖 AI Digital Twin Analyzer
 An AI-powered analysis platform for digital twin systems — combining modern web tech with intelligent automation.
 
-**Stack:** JavaScript · AI/ML Integration · Web APIs
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![AI](https://img.shields.io/badge/AI%2FML-Integration-blueviolet?style=flat-square)
+![WebAPIs](https://img.shields.io/badge/Web-APIs-blue?style=flat-square)
 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam/AI-DIGITAL-TWIN-ANALYSER)
 
@@ -157,7 +159,11 @@ An AI-powered analysis platform for digital twin systems — combining modern we
 ### 🚗 Car Rental Management System
 Full-stack MERN app with JWT authentication, role-based access, dynamic booking with date validation, automatic pricing, and real-time search & filtering.
 
-**Stack:** MERN · JWT Auth · REST API
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam/CAR_RENTAL_APP)
 
@@ -169,7 +175,9 @@ Full-stack MERN app with JWT authentication, role-based access, dynamic booking 
 ### 🎯 SkillBridge — AI Learning Platform
 React + TypeScript app delivering personalized AI-driven skill insights and learning paths with dashboards for skill tracking and growth analytics.
 
-**Stack:** TypeScript · React · AI Integration
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![AI](https://img.shields.io/badge/AI-Integration-blueviolet?style=flat-square)
 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam/SkillBridge)
 
@@ -179,7 +187,10 @@ React + TypeScript app delivering personalized AI-driven skill insights and lear
 ### 🍱 Food Waste Management System
 Web app to reduce food wastage by tracking surplus food from restaurants and households — real-time inventory, automated notifications, and data analytics.
 
-**Stack:** MERN · Role-Based Auth · Analytics
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Mukesh-Selvam/Food-Waste-Management)
 
