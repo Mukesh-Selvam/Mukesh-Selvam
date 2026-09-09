@@ -46,7 +46,6 @@ const mukesh: Developer = {
 - 🧩 **1000+ problems solved** across LeetCode, CodeChef & Codeforces
 - 🌐 Passionate about building fast, clean, scalable web applications
 - 🤖 Currently exploring AI-powered app development and system design
-- 🏆 Qualified for **Round 2 — VIT Bangalore Hackathon**
 - 🗣️ Languages: **Tamil** · **English**
 - 📫 Reach me at **kit28.24cs095@gmail.com** | 📞 **7397182789**
 
@@ -110,7 +109,7 @@ const mukesh: Developer = {
 
 | Platform | Max Rating | Problems Solved | Rank / Level |
 |----------|-----------|-----------------|--------------|
-| 🟡 **LeetCode** | 1452 | **500+** | Global Rank #70850 |
+| 🟡 **LeetCode** | 1635 | **500+** | Global Rank #70850 |
 | 🟤 **CodeChef** | 1446 | **1600+** | ⭐⭐ 2 Star · Div 3 |
 | 🔵 **Codeforces** | 895 | Active | Newbie → Pupil |
 
@@ -215,7 +214,6 @@ Web app to reduce food wastage by tracking surplus food from restaurants and hou
 
 | Type | Details |
 |------|---------|
-| 🥇 **Hackathon** | Qualified for **Round 2 — VIT Bangalore Hackathon** among multiple competing teams |
 | 📜 **Certification** | NPTEL — Operating System Fundamentals |
 | 🧩 **Competitive Programming** | 1000+ problems across LeetCode, CodeChef & Codeforces |
 | 💼 **Internship** | Full Stack Developer Intern — Unified Mentor Pvt Ltd |
